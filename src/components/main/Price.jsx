@@ -30,7 +30,7 @@ const Price = () => {
                 return (
                   <li
                     key={definition.id}
-                    className={`w-full md:w-1/3 p-3 bg-gray-900 border border-gray-800 flex items-center flex-col ${
+                    className={`w-full md:w-1/3 p-3 bg-gray-800 border border-gray-800 flex items-center flex-col ${
                       definition.isSupport
                         ? "scale-1 bg-green-500 md:scale-110"
                         : "scale-1"

@@ -1,5 +1,8 @@
 import { BsTelegram, BsInstagram, BsYoutube, BsFacebook, BsLinkedin, BsTwitter } from "react-icons/bs"
 import project from "../assets/images/project.png"
+import staff1 from "../assets/images/testimonial-01.jpg"
+import staff2 from "../assets/images/testimonial-02.jpg"
+import staff3 from "../assets/images/testimonial-03.jpg"
 
 export const languages = [
     {
@@ -194,4 +197,25 @@ export const definitions = [
             },
         }
     }
+]
+
+export const staff = [
+    {
+        id: 1,
+        name: "Jonh Doe",
+        job: "UI/UX Designer",
+        photo: staff1
+    },
+    {
+        id: 2,
+        name: "Usmonov Azizbek",
+        job: "Frontend Developer",
+        photo: staff2
+    },
+    {
+        id: 3,
+        name: "John",
+        job: "Backend Developer",
+        photo: staff3
+    },
 ]

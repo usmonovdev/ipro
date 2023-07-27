@@ -69,5 +69,8 @@
     },
     "signup": {
         "title": "Welcome"
+    },
+    "staff": {
+        "title": "Personnel"
     }
 }
