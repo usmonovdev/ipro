@@ -117,3 +117,81 @@ export const projects = [
         photo: project
     }
 ]
+
+export const definitions = [
+    {
+        id: 1,
+        price: 26,
+        isSupport: false,
+        time: "price.time",
+        name: "price.definition.one.name",
+        features: {
+            one: {
+                title: "price.definition.one.features.one",
+                isChecked: true
+            },
+            two: {
+                title: "price.definition.one.features.two",
+                isChecked: false
+            },
+            three: {
+                title: "price.definition.one.features.three",
+                isChecked: false
+            },
+            four: {
+                title: "price.definition.one.features.four",
+                isChecked: false
+            },
+        }
+    },
+    {
+        id: 2,
+        price: 36,
+        isSupport: true,
+        time: "price.time",
+        name: "price.definition.two.name",
+        features: {
+            one: {
+                title: "price.definition.two.features.one",
+                isChecked: true
+            },
+            two: {
+                title: "price.definition.two.features.two",
+                isChecked: true
+            },
+            three: {
+                title: "price.definition.two.features.three",
+                isChecked: true
+            },
+            four: {
+                title: "price.definition.two.features.four",
+                isChecked: false
+            },
+        }
+    },
+    {
+        id: 3,
+        price: 43,
+        isSupport: false,
+        time: "price.time",
+        name: "price.definition.three.name",
+        features: {
+            one: {
+                title: "price.definition.three.features.one",
+                isChecked: true
+            },
+            two: {
+                title: "price.definition.three.features.two",
+                isChecked: true
+            },
+            three: {
+                title: "price.definition.three.features.three",
+                isChecked: true
+            },
+            four: {
+                title: "price.definition.three.features.four",
+                isChecked: true
+            },
+        }
+    }
+]

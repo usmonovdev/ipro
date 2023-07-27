@@ -28,7 +28,7 @@ export default function Projects() {
                     data-aos="fade-up"
                   >
                     <img
-                      className="max-w-full mx-auto md:max-w-none h-auto"
+                      className="w-fit"
                       src={project.photo}
                       width={540}
                       height={405}

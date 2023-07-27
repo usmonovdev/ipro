@@ -27,5 +27,40 @@
                 "three": "Amet consectetur adipiscing elit"
             }
         }
+    },
+    "price": {
+        "title": "Xizmat ko'rsatish narxlari",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id nam doloribus asperiores incidunt cupiditate. Vero maiores impedit consequatur commodi eaque nulla totam illum. Numquam vel incidunt nihil.",
+        "time": "Oyiga",
+        "definition": {
+            "one": {
+                "name": "Basic",
+                "features": {
+                    "one": "It was popularised in",
+                    "two": "Aldus PageMaker including versions",
+                    "three": "Sometimes by accident, sometimes",
+                    "four": "It uses a dictionary of over"
+                }
+            },
+            "two": {
+                "name": "Premium",
+                "features": {
+                    "one": "It was popularised in",
+                    "two": "Aldus PageMaker including versions",
+                    "three": "Sometimes by accident, sometimes",
+                    "four": "It uses a dictionary of over"
+                }
+            },
+            "three": {
+                "name": "Ultimate",
+                "features": {
+                    "one": "It was popularised in",
+                    "two": "Aldus PageMaker including versions",
+                    "three": "Sometimes by accident, sometimes",
+                    "four": "It uses a dictionary of over"
+                }
+            }
+        },
+        "button": "Tanlash"
     }
 }
