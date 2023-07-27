@@ -56,3 +56,30 @@ export const socials = [
         desc: "socials.card-desc"
     }
 ]
+
+export const footerSocials = [
+    {
+        id: 1,
+        icon: BsTelegram,
+    },
+    {
+        id: 2,
+        icon: BsInstagram
+    },
+    {
+        id: 2,
+        icon: BsYoutube
+    },
+    {
+        id: 2,
+        icon: BsFacebook
+    },
+    {
+        id: 2,
+        icon: BsLinkedin
+    },
+    {
+        id: 2,
+        icon: BsTwitter
+    }
+]

@@ -4,6 +4,7 @@ import { SignIn, SignUp } from "./components/auth/index"
 import Header from "./components/ui/Header";
 import { useEffect } from "react";
 import Aos from "aos";
+import Footer from "./components/ui/Footer";
 
 function App() {
   useEffect(() => {
@@ -22,6 +23,7 @@ function App() {
         <Route path="/signin" element={<SignIn />} />
         <Route path="/signup" element={<SignUp />} />
       </Routes>
+      <Footer />
     </div>
   );
 }
