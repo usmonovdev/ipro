@@ -1,4 +1,5 @@
 import { BsTelegram, BsInstagram, BsYoutube, BsFacebook, BsLinkedin, BsTwitter } from "react-icons/bs"
+import project from "../assets/images/project.png"
 
 export const languages = [
     {
@@ -81,5 +82,38 @@ export const footerSocials = [
     {
         id: 2,
         icon: BsTwitter
+    }
+]
+
+export const projects = [
+    {
+        id: 1,
+        name: "projects.card.name",
+        title: "projects.card.title",
+        desc: "projects.card.desc",
+        featureOne: "projects.card.feature.one",
+        featureTwo: "projects.card.feature.two",
+        featureThree: "projects.card.feature.three",
+        photo: project
+    },
+    {
+        id: 2,
+        name: "projects.card.name",
+        title: "projects.card.title",
+        desc: "projects.card.desc",
+        featureOne: "projects.card.feature.one",
+        featureTwo: "projects.card.feature.two",
+        featureThree: "projects.card.feature.three",
+        photo: project
+    },
+    {
+        id: 3,
+        name: "projects.card.name",
+        title: "projects.card.title",
+        desc: "projects.card.desc",
+        featureOne: "projects.card.feature.one",
+        featureTwo: "projects.card.feature.two",
+        featureThree: "projects.card.feature.three",
+        photo: project
     }
 ]

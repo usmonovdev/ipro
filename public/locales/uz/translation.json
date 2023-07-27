@@ -13,5 +13,19 @@
         "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus quam laboriosam libero cumque impedit, fuga debitis hic nihil voluptate!",
         "card-title": "Lorem, ipsum",
         "card-desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia eos, autem vero minus rerum est similique quasi enim nulla nisi, assumenda porro labore?"
+    },
+    "projects": {
+        "title": "Bizning muvaffaqiyatli loyihalarimiz",
+        "desc": "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which ",
+        "card": {
+            "name": "Lorem ipsum dolor sit",
+            "title": "when our power of choice is untrammelled",
+            "desc": "The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else ",
+            "feature": {
+                "one": "Duis aute irure dolor in reprehenderit",
+                "two": "Excepteur sint occaecat",
+                "three": "Amet consectetur adipiscing elit"
+            }
+        }
     }
 }

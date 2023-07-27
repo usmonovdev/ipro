@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { Home, Social } from './index'
+import { Home, Projects, Social } from './index'
 
 const Main = () => {
 
@@ -11,6 +11,7 @@ const Main = () => {
     <div>
       <Home/>
       <Social />
+      <Projects />
     </div>
   )
 }

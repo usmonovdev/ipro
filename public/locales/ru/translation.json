@@ -13,5 +13,19 @@
         "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis, quasi eligendi. In, quod? Aperiam a deserunt numquam, ratione excepturi dolor sint exercitationem ullam.",
         "card-title": "Lorem, ipsum.",
         "card-desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam possimus consectetur sunt tempora sit debitis accusantium nostrum. Dolor, blanditiis voluptatum?"
+    },
+    "projects": {
+        "title": "Наши успешные проекты",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, veniam dolore libero hic accusantium nesciunt culpa temporibus maxime impedit dignissimos consequuntur fugit repellat.",
+        "card": {
+            "name": "Lorem ipsum dolor sit amet.",
+            "title": "when our power of choice is untrammelled",
+            "desc": "The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else ",
+            "feature": {
+                "one": "Duis aute irure dolor in reprehenderit",
+                "two": "Excepteur sint occaecat",
+                "three": "Amet consectetur adipiscing elit"
+            }
+        }
     }
 }
