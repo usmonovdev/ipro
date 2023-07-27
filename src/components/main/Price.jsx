@@ -32,7 +32,7 @@ const Price = () => {
                     key={definition.id}
                     className={`w-full md:w-1/3 p-3 bg-gray-900 border border-gray-800 flex items-center flex-col ${
                       definition.isSupport
-                        ? "scale-1 bg-purple-600 md:scale-110"
+                        ? "scale-1 bg-green-500 md:scale-110"
                         : "scale-1"
                     }`}
                   >
@@ -57,7 +57,7 @@ const Price = () => {
                             className={`${
                               definition.isSupport
                                 ? "text-green-600"
-                                : "text-purple-600"
+                                : "text-green-500"
                             } text-[25px]`}
                           />
                         ) : (
@@ -72,7 +72,7 @@ const Price = () => {
                             className={`${
                               definition.isSupport
                                 ? "text-green-600"
-                                : "text-purple-600"
+                                : "text-green-500"
                             } text-[25px]`}
                           />
                         ) : (
@@ -87,7 +87,7 @@ const Price = () => {
                             className={`${
                               definition.isSupport
                                 ? "text-green-600"
-                                : "text-purple-600"
+                                : "text-green-500"
                             } text-[25px]`}
                           />
                         ) : (
@@ -102,7 +102,7 @@ const Price = () => {
                             className={`${
                               definition.isSupport
                                 ? "text-green-600"
-                                : "text-purple-600"
+                                : "text-green-500"
                             } text-[25px]`}
                           />
                         ) : (
@@ -115,7 +115,7 @@ const Price = () => {
                       className={`btn-sm ${
                         definition.isSupport
                           ? "bg-green-600 hover:bg-green-700"
-                          : "border border-purple-600 hover:bg-purple-600"
+                          : "border border-green-500 hover:bg-green-500"
                       }`}
                     >
                       {t("price.button")}

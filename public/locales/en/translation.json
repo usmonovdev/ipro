@@ -62,5 +62,12 @@
             }
         },
         "button": "Choose"
+    },
+    "signin": {
+        "title": "Welcome back.",
+        "no-account": "Don’t you have an account?"
+    },
+    "signup": {
+        "title": "Welcome"
     }
 }

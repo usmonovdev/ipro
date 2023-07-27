@@ -25,7 +25,7 @@ export default function Social() {
                   data-aos="fade-up"
                   data-aos-anchor="[data-aos-id-blocks]"
                 >
-                  <div className="w-[64px] h-[64px] bg-purple-600 flex items-center justify-center rounded-full">
+                  <div className="w-[64px] h-[64px] bg-green-500 flex items-center justify-center rounded-full">
                     <social.icon className="text-[1.4rem]" />
                   </div>
                   <h4 className="h4 mb-2">{t(social.title)}</h4>

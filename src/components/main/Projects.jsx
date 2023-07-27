@@ -47,15 +47,15 @@ export default function Projects() {
                       </p>
                       <ul className="text-lg text-gray-400 -mb-2">
                         <li className="flex items-center mb-2">
-                          <BsCheck className="text-[25px] text-purple-600" />
+                          <BsCheck className="text-[25px] text-green-500" />
                           <span>{t(project.featureOne)}</span>
                         </li>
                         <li className="flex items-center mb-2">
-                          <BsCheck className="text-[25px] text-purple-600" />
+                          <BsCheck className="text-[25px] text-green-500" />
                           <span>{t(project.featureTwo)}</span>
                         </li>
                         <li className="flex items-center">
-                          <BsCheck className="text-[25px] text-purple-600" />
+                          <BsCheck className="text-[25px] text-green-500" />
                           <span>{t(project.featureThree)}</span>
                         </li>
                       </ul>

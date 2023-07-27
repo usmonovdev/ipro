@@ -62,5 +62,12 @@
             }
         },
         "button": "Tanlash"
+    },
+    "signin": {
+        "title": "Xush kelibsiz",
+        "no-account": "Hisobingiz yo'qmi?"
+    },
+    "signup": {
+        "title": "Xush kelibsiz"
     }
 }

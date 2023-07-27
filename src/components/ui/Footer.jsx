@@ -166,7 +166,7 @@ export default function Footer() {
                   <li>
                     <Link
                       href="/"
-                      className="flex justify-center p-2 items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                      className="flex justify-center p-2 items-center text-green-500 bg-gray-800 hover:text-gray-100 hover:bg-green-500 rounded-full transition duration-150 ease-in-out"
                       aria-label="Twitter"
                     >
                       <socials.icon className="w-[20px] h-[20px]" />
