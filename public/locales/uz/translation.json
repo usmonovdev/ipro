@@ -7,5 +7,11 @@
         "title": "On the other hand",
         "desc": "we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire",
         "button": "Start"
+    },
+    "socials": {
+        "title": "Ijtimoiy tarmoqlardagi sahifalarimiz",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus quam laboriosam libero cumque impedit, fuga debitis hic nihil voluptate!",
+        "card-title": "Lorem, ipsum",
+        "card-desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia eos, autem vero minus rerum est similique quasi enim nulla nisi, assumenda porro labore?"
     }
 }

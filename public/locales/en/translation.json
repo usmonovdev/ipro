@@ -7,5 +7,11 @@
         "title": "Contrary to popular belief",
         "desc": "Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
         "button": "Start"
+    },
+    "socials": {
+        "title": "Our pages on social networks",
+        "desc": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "card-title": "Lorem, ipsum.",
+        "card-desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam sit consectetur temporibus quo at harum doloremque qui, et illo enim ratione."
     }
 }

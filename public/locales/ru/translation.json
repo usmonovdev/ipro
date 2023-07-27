@@ -7,5 +7,11 @@
         "title": "Lorem Ipsum comes from",
         "desc": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti",
         "button": "Начало"
+    },
+    "socials": {
+        "title": "Наши страницы в социальных сетях",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis, quasi eligendi. In, quod? Aperiam a deserunt numquam, ratione excepturi dolor sint exercitationem ullam.",
+        "card-title": "Lorem, ipsum.",
+        "card-desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam possimus consectetur sunt tempora sit debitis accusantium nostrum. Dolor, blanditiis voluptatum?"
     }
 }
