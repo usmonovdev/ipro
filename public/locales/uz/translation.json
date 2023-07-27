@@ -1,3 +1,11 @@
 {
-    "header": "Hello"
+    "header": {
+        "signin": "SignIn",
+        "signup": "SignUp"
+    },
+    "home": {
+        "title": "On the other hand",
+        "desc": "we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire",
+        "button": "Start"
+    }
 }

@@ -1,3 +1,11 @@
 {
-    "header": "Hello"
+    "header": {
+        "signin": "SignIn",
+        "signup": "SignUp"
+    },
+    "home": {
+        "title": "Lorem Ipsum comes from",
+        "desc": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti",
+        "button": "Начало"
+    }
 }
